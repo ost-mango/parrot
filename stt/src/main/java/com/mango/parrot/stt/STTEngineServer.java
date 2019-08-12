@@ -1,4 +1,4 @@
-package com.mango.parrot;
+package com.mango.parrot.stt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,7 +11,7 @@ import edu.cmu.sphinx.api.Configuration;
 import edu.cmu.sphinx.api.SpeechResult;
 import edu.cmu.sphinx.api.StreamSpeechRecognizer;
 //@SpringBootApplication
-public class ParrotApplication {
+public class STTEngineServer {
 
 	public static void main(String[] args) throws IOException {
 //		SpringApplication.run(ParrotApplication.class, args);
