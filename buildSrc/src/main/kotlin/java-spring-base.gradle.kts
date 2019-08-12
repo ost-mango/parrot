@@ -27,7 +27,6 @@ dependencies {
 
     "annotationProcessor"(ParrotConfig.Deps.lombok)
     "annotationProcessor"(ParrotConfig.Deps.springBootConfigurationProcessor)
-    // ignite
     // framework
     "implementation"(ParrotConfig.Deps.springBootStarterActuator)
     "implementation"(ParrotConfig.Deps.springBootStarterWeb)
