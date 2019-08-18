@@ -1,5 +1,6 @@
 rootProject.name = "parrot"
 include (
-        "stt"
+        "stt",
+        "data"
 )
 
